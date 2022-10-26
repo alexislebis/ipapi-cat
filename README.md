@@ -1,2 +1,2 @@
 # ipapi-cat
-Cat problem
+This repo is about the Cat problem saw in the 2nd practical activity
