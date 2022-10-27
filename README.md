@@ -30,4 +30,5 @@ Paramètres :
 Sorties : 
 * Le nombre d'étagères empruntées par le chat
 
+___
 Original idea from https://www.codewars.com/kata/62c93765cef6f10030dfa92b
